@@ -12,5 +12,3 @@ Thanks for reading, and I hope everyone will enjoy Cheukblog.
 ```python
 print("Hello World!")
 ```
-
-Cheuk
