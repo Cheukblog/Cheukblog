@@ -1,5 +1,5 @@
-baseURL = "https://cheukblog.github.io/"
+baseURL = "https://cheuktingchan.github.io/"
 languageCode = "en-us"
-title = "Cheukblog"
+title = "Cheuktingchan"
 
 theme="hugo-PaperMod"
