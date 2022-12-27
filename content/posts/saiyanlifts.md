@@ -18,12 +18,16 @@ First, with the need for both fast development (this is my Christmas break proje
 
 ## The Learning
 
+After initialising a create-next-app I started with the Supabase database and authentication quickstart. They have a useful follow along video here: https://www.youtube.com/watch?v=0Fs96oZ4se0. This helped me get familiar with the structure of Next.js and the features provided by Supabase very quickly. Afterwards I took inspiration from this blog: https://blog.logrocket.com/build-full-stack-app-next-js-supabase/#implementing-workout-functionalities, which is an existing workout tracker. It helped substantially to see examples of how things can be done in Next.js, especially with the client-side vs server-side rendering that Next.js does, routing and getting the session effectively everywhere I needed was a challenge initially. Now that I understand it properly though, I find Next.js to be so much faster to set up than vanilla React, with much less work done by the developer to setup routes and the overall architecture of the site.
+
 ## The Style
+
+To create an interface more pleasant and simple than the notes app, I opted to have a fixed header and footer design to mimic an app, and used themes from Dragon Ball Z (Broly) to gamify the UI and give the PWA a more polished look. Everything is rectangular apart from buttons, giving it a practical look among the fun theme. Overall I tried to make it look as similar to an app as possible, steering away from awkward browser UI such as popups and complex forms.
 
 ## The Journey
 
 27/12/22:
-As of now, I have developed above the MVP of the app which I am confident is better than using the notes app to track my workouts finishing with around ~20-30 hours of work in total. What could be added later are a bunch of quality of life features, such as offline compatibility for if I have no signal, and UI improvements to further reduce the actions needed to be performed to log exercises.
+As of now, I have developed above the MVP of the app which I am confident is better than using the notes app to track my workouts finishing with around ~20-30 hours of work in total. What could be added later are a bunch of quality of life features, such as offline compatibility for if I have no signal, and UI improvements in the workout forms to further reduce the actions needed to be performed to log exercises.
 
 Thanks for reading, and I hope you will sign up and enjoy using Saiyan Lifts Tracker as much as I do.
 
