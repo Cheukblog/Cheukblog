@@ -1,6 +1,7 @@
 ---
 title: "Personal Project: Saiyan Lifts Tracker"
-date: 2022-12-27T12:39:46Z
+date: 2022-12-26T00:39:46Z
+draft: false
 ---
 
 ## The Idea
@@ -22,9 +23,9 @@ First, with the need for both fast development (this is my Christmas break proje
 ## The Journey
 
 27/12/22:
-As of now, I have developed above the MVP of the app which I am confident is better than using the notes app to track my workouts. What could be added later are a bunch of quality of life features, such as offline compatibility for if I have no signal, and UI improvements to further reduce the actions needed to be performed to log exercises.
+As of now, I have developed above the MVP of the app which I am confident is better than using the notes app to track my workouts finishing with around ~20-30 hours of work in total. What could be added later are a bunch of quality of life features, such as offline compatibility for if I have no signal, and UI improvements to further reduce the actions needed to be performed to log exercises.
 
 Thanks for reading, and I hope you will sign up and enjoy using Saiyan Lifts Tracker as much as I do.
 
-Site: https://saiyan-lifts-tracker.vercel.app/
+Site: https://saiyan-lifts-tracker.vercel.app/  
 Repo: https://github.com/Cheuktingchan/workout_tracker/
